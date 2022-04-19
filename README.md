@@ -1,1 +1,1 @@
-# singularity_recepies
+# singularity_recipies
